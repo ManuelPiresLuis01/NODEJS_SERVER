@@ -1,1 +1,1 @@
-#  in this repository i write simple javaScript program
+#  in this repository i wrOte simple javaScript program
